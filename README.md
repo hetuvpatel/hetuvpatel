@@ -16,14 +16,14 @@
 - 🎓 **Computer Science** @ Toronto Metropolitan University (Minor: Business Management)  
 - 🎯 Passionate about solving real-world problems with AI, Machine Learning, and Full-Stack Development.  
 - 🌟 Advocate for student success through leadership roles and academic policy reform.
-- 🎨 I love designing seamless, intuitive user experiences (UX/UI)!
+- 📊 I’m passionate about uncovering insights from data and building intelligent, data-driven solutions!
 
 ---
 
 ## 🚀 Tech Stack
 
 **Languages:**  
-`Python` `Java` `C` `JavaScript` `SQL` `Rust` `R` `HTML` `CSS` `Bash` `Smalltalk` `Assembly` `Haskell` `Elixir` `PHP`
+`Python` `Java` `C` `C++` `JavaScript` `SQL` `Rust` `R` `HTML` `CSS` `Bash` `Smalltalk` `Assembly` `Haskell` `Elixir` `PHP`
 
 **Frameworks & Tools:**  
 `Django` `React` `Node.js` `Tailwind CSS` `TensorFlow` `PyTorch` `Keras` `AWS` `GCP` `Azure` `MongoDB` `MySQL` `OpenCV` `Git` `GitHub` `Figma` `.NET`
@@ -44,18 +44,6 @@
 - **Software Engineer Intern @ Invision Software Solutions** (Sept 2022 – Dec 2022)  
   🔥 Developed full-stack solutions including AR/VR applications for construction visualization.
 
----
-
-## 🛠️ Cool Projects
-
-- 🧊 **OurMeal App**  
-  _Windows app to optimize household management using intuitive GUI design principles._
-
-- 🏀 **Basketball Object Detection & Tracking**  
-  _Real-time YOLOv8-based analytics system achieving 73.7% mAP50-95 for sports insights._
-
-- 🧬 **Diabetes Risk Clustering Analysis**  
-  _Research paper applying K-Means & Hierarchical clustering for actionable healthcare insights._
 
 ---
 
@@ -82,6 +70,6 @@
 
 ---
 
-<!--
-⭐ Fun fact: Thanks for scrolling this far! If you find my work interesting, feel free to connect!
--->
+
+⭐ Fun fact: 80% of my best project ideas happen while listening to lo-fi beats and in my sleep LOL.
+
