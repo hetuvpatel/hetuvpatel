@@ -14,7 +14,8 @@
 ## 🧠 About Me
 
 - 🎓 **Computer Science** @ Toronto Metropolitan University (Minor: Business Management)  
-- 🎯 Passionate about solving real-world problems with AI, Machine Learning, and Full-Stack Development.  
+- 🎯 Passionate about solving real-world problems with AI, Machine Learning, and Full-Stack Development.
+- 🚀 Entrepreneurship Enthusiast — always exploring ideas at the intersection of technology, business, and innovation.
 - 🌟 Advocate for student success through leadership roles and academic policy reform.
 - 📊 I’m passionate about uncovering insights from data and building intelligent, data-driven solutions!
 
